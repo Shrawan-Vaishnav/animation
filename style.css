@@ -39,7 +39,7 @@
 .page1{
     width: 100%;
     height: 700px;
-    background-image: url('anime/all.jpg');
+    background-image: url('./anime/all.jpg');
     background-size: 100% 100%;
     border-bottom: 4px solid;
 }
@@ -75,7 +75,7 @@
 .image{
     width: 30%;
     height: 600px;
-    background-image: url('anime/demon_slayer_nezuko.jpg');
+    background-image: url('./anime/demon_slayer_nezuko.jpg');
     background-size: 100% 100%;
     position: absolute;
     left: 0;
